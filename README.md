@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LYshiying
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LYshiying/LYshiying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 尝试着介绍下自己吧~
+阿诺捏阿诺捏…我就是那个，二次元！（超级得意） 
+目前还是高三的学生！正在尝试更加的卷，学习python java js go等一系列前后端！ 
+希望能做到前后端双精通，至于硬件，告辞！
+# 有多二次元？
+唔姆…https://www.uisbox.com
+# 九折？
+九折…这页面到底有什么好写的啊，我明明什么都没有，对了！如果可以的话！~~请让任天堂抽一个入职通知给我！~~
