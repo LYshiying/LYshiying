@@ -13,7 +13,7 @@
   - ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff) ![](https://img.shields.io/badge/-PHP-B8DE4B?style=flat-square&logo=php&logocolor=fff)
 
 - 能挂出来的东西:  
-![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)](https://github.com/LYshiying/ui_bot)
 
 - 使用语言统计:  
 ![](https://wakatime.com/share/@a342bc95-5f1c-48b3-b12a-28735cfd7b38/28260bb3-2529-44f9-b018-b05bd9f5a508.svg)
