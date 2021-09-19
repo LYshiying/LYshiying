@@ -8,12 +8,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=LYshiying&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 各种开发用的东西：
-  - ![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff) ![](https://img.shields.io/badge/CentOS-7-aeb8dd?style=flat-square&logo=Debian&logoColor=fff)
+  - ![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff) ![](https://img.shields.io/badge/CentOS-7-262577?style=flat-square&logo=CentOS&logoColor=fff) ![](https://img.shields.io/badge/Ubuntu-20.04LTS-E95420?style=flat-square&logo=Ubuntu&logoColor=fff)
   - ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077cc?style=flat-square&logo=visual-studio-code&logoColor=fff)
   - ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 
 - 在学的东西：
-  - ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff) ![](https://img.shields.io/badge/-PHP-B8DE4B?style=flat-square&logo=php&logocolor=fff)
+  - ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff) / ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logocolor=fff) for ![](https://img.shields.io/badge/ACM-0085CA?style=flat-square&logo=ACM&logoColor=fff)
+  - ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=fff)
 
 - 能挂出来的东西:  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)](https://github.com/LYshiying/ui_bot)
