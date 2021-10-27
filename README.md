@@ -10,15 +10,17 @@
 
 - 各种开发用的东西：
   - ![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff) ![](https://img.shields.io/badge/CentOS-7-262577?style=flat-square&logo=CentOS&logoColor=fff) ![](https://img.shields.io/badge/Ubuntu-20.04LTS-E95420?style=flat-square&logo=Ubuntu&logoColor=fff)
-  - ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077cc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+  - ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077cc?style=flat-square&logo=visual-studio-code&logoColor=fff) <- 它，好用极了！
   - ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 
 - 在学的东西：
   - ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff) / ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logocolor=fff) for ![](https://img.shields.io/badge/ACM-0085CA?style=flat-square&logo=ACM&logoColor=fff)
-  - ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=fff)
+  - ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=fff) ~~(先不学了)~~
+  - ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 
 - 能挂出来的东西:  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)](https://github.com/LYshiying/ui_bot)
+  - 波特! => [![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)](https://github.com/LYshiying/ui_bot)
+  - 奇妙工具箱(可是现在什么都没有) => [![](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=soraha_utils)](https://github.com/LYshiying/soraha_utils)
 
 - 使用语言统计:  
 ![](https://wakatime.com/share/@a342bc95-5f1c-48b3-b12a-28735cfd7b38/28260bb3-2529-44f9-b018-b05bd9f5a508.svg)
@@ -30,7 +32,7 @@
 
 ~~还有什么东西写啊,好像没有了,溜了溜了~~
 
-啊！顺带一提！二次元的萝莉们！可爱极了！！！！
+啊！顺带一提！如果看到这里的你是个萝莉的话，请即刻关注我！
 
 还有还有！请多多来跟我聊天吧！  
 (上面这句是羽衣发的)  
