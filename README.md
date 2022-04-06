@@ -28,7 +28,7 @@
 - 编程时间什么的:
 ![](https://wakatime.com/share/@a342bc95-5f1c-48b3-b12a-28735cfd7b38/e96714be-738f-49f4-8981-98454add315b.svg)
 
-欢迎来我[博客](https://uisbox.com)玩~
+欢迎来我[博客](https://uichans.com)玩~
 
 ~~还有什么东西写啊,好像没有了,溜了溜了~~
 
