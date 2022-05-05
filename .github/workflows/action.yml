@@ -16,7 +16,7 @@ jobs:
           config_timezone: Asia/Shanghai
           
           # 屏幕截图
-          filename: metrics.plugin.pagespeed.screenshot.svg
+          filename: blog_status.svg
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
