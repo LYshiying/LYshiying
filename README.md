@@ -39,7 +39,7 @@
   [![我！不！要！替！代！文！字！](https://github-readme-stats.vercel.app/api/pin/?username=LYshiying&repo=ui_bot)](https://github.com/LYshiying/ui_bot)  
 
 - 图书馆门前的告示！  
-  ![其实是博客哦！](/blog_status.svg)  
+  [![其实是博客哦！](/blog_status.svg)](https://www.uichans.com/)  
 所以说，赶紧给我钱…啊不是，求你了，伟大的埃尔姆斯菲亚大人，让我过嘛(=·ω＜=)☆kira~
 
 > 唔…不错的成绩，但是…嗯……总而言之，先来试试看吧
@@ -53,7 +53,7 @@
 ### 果然如此啊，他的眼睛……呵呵，这样就放心了，去给神域歌塔利亚留下永恒的污点吧！…不过在这之前，我可没有宣布放弃……既然承载着这个名字，就该表现出同等的气概才是！
 
 ### <div align="center">愿你的前行之路被黎明之繁星所照耀</div>
-### <div align="center">阿斯塔尼亚首席宫廷魔术师</font>
+### <div align="center">阿斯塔尼亚首席宫廷魔术师</div>
 ### <div align="center">白羽 月空诗</div>
 
 ### 记录者: 阿斯塔尼亚第96任国王 <ruby>埃<rt>エ</rt></ruby><ruby>尔<rt>ル</rt></ruby><ruby>姆<rt>ム</rt></ruby><ruby>斯<rt>ス</rt></ruby><ruby>菲<rt>フィ</rt></ruby><ruby>亚<rt>ア</rt></ruby>十一世
